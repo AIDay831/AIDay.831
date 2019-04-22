@@ -14,7 +14,7 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 <li>More......</li>
 </ul>
 
-**AIDay events**
+**AIDay Events**
 
 &emsp;AIDay is not only the festival of global  AI scientists and technicians, but also a shared day of “all of us” and “AI species”. 
 Welcome to participate in our own festival, and provide more creative and help for AIDay events. 
