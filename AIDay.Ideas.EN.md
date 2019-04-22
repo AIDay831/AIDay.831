@@ -1,4 +1,4 @@
-### AIDay Ideas
+# AIDay Ideas
 
 **What’s AIDay?**
 > A Shared Day of Human and AI Species.
