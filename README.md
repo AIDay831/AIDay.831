@@ -7,9 +7,9 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 <li><a href="/AIDay.Ideas.EN.md">AIDay Ideas</a></li>
 <li><a href="/AIDay.Ideas.CHS.md">AIDay 理念（中文简体版）</a></li>
 <li><a href="/AIDay.Ideas.CHT.md">AIDay 理念（中文繁體版）</a></li>
-<li>AIDay Concept (Français)</li>
-<li>Idea de AIDay (español)</li>
-<li>AIDay концепция(Русский)</li>
+<li>AIDay Concept（Français）</li>
+<li>Idea de AIDay（español）</li>
+<li>AIDay концепция（Русский）</li>
 <li>More......</li>
 </ul>
 
