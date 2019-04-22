@@ -1,18 +1,18 @@
 # AIDay Ideas
 
-**What’s AIDay?**
+### What’s AIDay?
 > A Shared Day of Human and AI Species.
 
-**Mission**
+### Mission
 > Co-building a balanced and trustworthy AI-powered world between human and AI species, to make AI benefit from everyone and more accessible to everyone.
 
-**Vision**
+### Vision
 > Honor the past, Show the present, Explore the future.<br/>
 > Intelligence is endless! To make AIDay a science and technology festival that carries the dreams of Intelligence, humanity and the future.
 
-**Values**: From “Human-centered” to “Democratizing AI”
+### Values: From “Human-centered” to “Democratizing AI”
 
-> <strong>Benefits for Everyone</strong><br/>
+> **Benefits for Everyone** <br/>
 Inclusive AI. AI benefits from the intellect of everyone, and benefits everyone.<br/>
 Not just bringing  AI benefits to everyone, but also spreading AI knowledge to everyone.
 
@@ -20,7 +20,7 @@ Not just bringing  AI benefits to everyone, but also spreading AI knowledge to e
 Balancing the relationship between human and AI technology, business economy and social culture, to reduce the impact of AI technology;<br/>
 Open rather than closed, diverse rather than single balanced Al ecosystem.
 
-> <strong>Be Responsible to People</strong><br/>
+> **Be Responsible to People**<br/>
 Building a balanced, trustworthy “symbiotic” relationship between human and AI species ：<br/>
 AI should make up for the weakness of human nature rather than take advantage of it, and augment rather than replace human capability;<br/> 
 AI respects fundamental rights（including the right of choice）with fairness, interpretability, privacy and security.
