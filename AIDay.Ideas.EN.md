@@ -25,7 +25,7 @@ Building a balanced, trustworthy “symbiotic” relationship between human and 
 AI should make up for the weakness of human nature rather than take advantage of it, and augment rather than replace human capability;<br/> 
 AI respects fundamental rights（including the right of choice）with fairness, interpretability, privacy and security.
 
-**What is AIDay Doing ?**
+### What is AIDay Doing ?
 
 > <strong>Social Good</strong><br/>
 To popularize AI scientific knowledge , Practice AI Public Welfare ;<br/>
@@ -44,5 +44,6 @@ Focus on AI social science, balancing the relationship between AI technology and
 Supporting community to build AI policies and ethics, to improve the fairness, interpretability, privacy 
 and security of AI practices
 
-**Shared Day, Shared Future**
+### Shared Day, Shared Future
+
 > AIDay is not only the festival of global  AI practitioners, but also a shared day of “all of us” and “AI species”; not only to promote AI technology, products and services, but also explore the relationship between people and “AI species”, to Co-build a balanced and trustworthy AI-powered world. 
