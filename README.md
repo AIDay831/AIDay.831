@@ -19,6 +19,7 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 <ul>
 <li>AIDay Theme Tune（created by AI and people）</li>
 <li>AIDay Practice for Social Good （Projects）</li>
+<li>AIDay Workshop/Summit</li>
 </ul>
 
 &nbsp;
