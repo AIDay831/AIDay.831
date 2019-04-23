@@ -18,7 +18,7 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 
 <ul>
 <li>AIDay Theme Tune（created by AI and people）</li>
-<li>AIDay Practice for Social Good </li>
+<li>AIDay Practice for Social Good （Projects）</li>
 </ul>
 
 &nbsp;
@@ -26,8 +26,8 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 # Shared Day, Shared Future
 
 AIDay is not only the festival of global  AI scientists and technicians, but also a shared day of “all of us” and “AI species”. 
-Welcome to participate in our own festival, let's fight for this cause together. 
+Welcome to participate in our own festival, let's unfold the future of AIDay together. 
 
-AIDay是全球AI科技人员的节日，也是我们所有人与人工智能物种的共同节日！欢迎参与到我们自己的节日，共同定义AIDay的未来。
+AIDay是全球AI科技人员的节日，也是我们所有人与人工智能物种的共同节日！欢迎参与到我们自己的节日，共同展现AIDay的未来。
  
 Contact Us: AI@AIDay831.org
