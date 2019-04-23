@@ -6,7 +6,7 @@
 
 > The Summer Research Project on Artificial Intelligence was held at Dartmouth in August 1956. The Dartmouth Conference became a milestone in the history of Artificial Intelligence, with the term Artificial Intelligence officially presented at academic conferences, and 1956 became the first year of Artificial Intelligence.
 
-> AI will bring human civilization to an unprecedented new height, and human society will therefore face unprecedented new challenges. To Honor the past, Show the present, Explore the future, Combining a wide range of social forces and Collective intelligence to achieve a brilliant era of intelligence in the history of human civilization, We initiated the AIDay.
+> AI will bring human civilization to an unprecedented new height, and human society will therefore face unprecedented new challenges. To Honor the past, Show the present, Explore the future, Combining a wide range of social forces and Collective intelligence to achieve a brilliant era of intelligence in the history of human civilization, We initiated the AIDay (Artificial Intelligence Day).
 
 ### What’s AIDay?
 > A Shared Day of Human and AI Species.
