@@ -36,7 +36,7 @@ AI respects fundamental rights（including the right of choice）with fairness, 
 ### What is AIDay Doing ?
 
 > <strong>Social Good</strong><br/>
-To popularize AI scientific knowledge , Practice AI Public Welfare ;<br/>
+To popularize AI scientific knowledge , AI Practice for Public Welfare ;<br/>
 To jointly promote the balance of AI technological achievements. 
 
 > <strong>AI Ecosystem</strong><br/>
