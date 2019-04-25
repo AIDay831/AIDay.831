@@ -20,8 +20,6 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 <li>AI Practice for Social Good （AI实践公益项目）</li>
 </ul>
 
-&nbsp;
-
 # Shared Day, Shared Future
 
 AIDay is not only the festival of global  AI scientists and technicians, but also a shared day of “all of us” and “AI species”. 
