@@ -5,12 +5,8 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 # Contents
 ### AIDay Ideas
 <ul>
-<li><a href="/AIDay.Ideas_EN.md">AIDay Ideas</a></li>
-<li><a href="/AIDay.Ideas_CHS.md">AIDay 理念（中文简体版）</a></li>
-<li><a href="/AIDay.Ideas_CHT.md">AIDay 理念（中文繁體版）</a></li>
-<li>AIDay Concept（Français）</li>
-<li>Idea de AIDay（español）</li>
-<li>More......</li>
+<li><a href="/AIDay.Ideas_EN.md">AIDay Ideas</a>  / （Français） / （español）</li>
+<li><a href="/AIDay.Ideas_CHS.md">AIDay 理念（中文简体版）</a> / <a href="/AIDay.Ideas_CHT.md">（中文繁體版）</a></li>
 </ul>
 
 ### AIDay Events
@@ -18,6 +14,7 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 <ul>
 <li>AIDay Theme Tune（created by AI and people）</li>
 <li>AIDay Ambassador（#Iambassador4AIDay）</li>
+<li>New Social Etiquette（including Human-Computer Interaction）</li>
 <li>AIDay Webinar / Workshop / Summit</li>
 <li>AIDay Event for Social Good （AIDay公益活动）</li>
 <li>AI Practice for Social Good （AI实践公益项目）</li>
