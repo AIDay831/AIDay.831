@@ -1,8 +1,11 @@
 # AIDay.831
 Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Species.
+
 # AIDay.831
 人工智能节 · 8月31日 :  人与人工智能物种的共同节日.
-# Contents
+
+## Contents
+
 ### AIDay Ideas
 <ul>
 <li><a href="/AIDay.Ideas_EN.md">AIDay Ideas</a>  / （Français） / （español）</li>
