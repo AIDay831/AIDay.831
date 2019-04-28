@@ -15,8 +15,8 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 
 <ul>
 <li>AIDay Theme Tune（created by AI and people）</li>
-<li>AIDay Ambassador（#Iambassador4AIDay）</li>
-<li>New Social Etiquette（including Human-Computer Interaction）</li>
+<li>AIDay Ambassador（#AIDay,#AIDay831）</li>
+<li><a href="/New.Social.Etiquette.md">New Social Etiquette For AIDay</a></li>
 <li>AIDay Webinar / Workshop / Summit</li>
 <li>AIDay Event for Social Good （AIDay公益活动）</li>
 <li>AI Practice for Social Good （AI实践公益项目）</li>
