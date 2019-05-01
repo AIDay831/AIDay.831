@@ -1,6 +1,5 @@
 # New Social Etiquette for AIDay
 
-
 ### Manners<br/>
 
 Interact with the AI agent in a friendly way.
@@ -13,7 +12,7 @@ Actively turn off/remove the AI agent and talk to people.
 comity to the AI agent and offer to help the troubled AI agent.
 
 
-## <中文简体>
+## `AIDay 新礼仪 <中文简体>`
 
 ### 礼貌<br/>
 
@@ -26,7 +25,7 @@ comity to the AI agent and offer to help the troubled AI agent.
 礼让智能体，主动帮助陷入困境的智能体。
 
 
-## <中文繁體>
+## `AIDay 新禮儀 <中文繁体>`
 
 ### 禮貌<br/>
 
