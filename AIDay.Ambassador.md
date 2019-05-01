@@ -3,8 +3,8 @@
 ## 一、Everyone who supports and participates in AIDay is an AIDay ambassador
 
 <ur>
-<li>Starring the <a href="/AIDay831/AIDay.831/">AIDay.831</a> repository;</li>
-<li>Retweeting the <a href="/AIDay831/AIDay.831/">AIDay.831</a> repository with the hashtag #AIDay @AIDay831;</li>
+<li>Starring the <a href="/AIDay.831/">AIDay.831</a> repository;</li>
+<li>Retweeting the <a href="/AIDay.831/">AIDay.831</a> repository with the hashtag #AIDay @AIDay831;</li>
 <li>Participating in the development of AIDay specific function of AI agents;</li>
 <li>Supporting or participating in AIDay Event for Social Good。</li>
 </ul>
@@ -25,8 +25,8 @@ AIDay functions may including, but not limited to：
 
 ## 一、每一位支持、参与AIDay的人皆为AIDay宣传大使
 <ur>
-<li>GitHub <a href="/AIDay831/AIDay.831/">AIDay.831</a> 加星；</li>
-<li>推特转发：<a href="/AIDay831/AIDay.831/">AIDay.831</a> （#AIDay @AIDay831）；</li>
+<li>GitHub <a href="/AIDay.831/">AIDay.831</a> 加星；</li>
+<li>推特转发：<a href="/AIDay.831/">AIDay.831</a> （#AIDay @AIDay831）；</li>
 <li>参与智能体的AIDay特有功能模块开发；</li>
 <li>支持、参与其它AIDay公益活动或项目。</li>
 </ur>
@@ -48,8 +48,8 @@ AIDay功能模块可包括但不限于：
 
 ## 一、每一位支持、參與AIDay的人皆為AIDay宣傳大使
 <ur>
-<li>GitHub <a href="/AIDay831/AIDay.831/">AIDay.831</a> 加星；</li>
-<li>推特轉發：<a href="/AIDay831/AIDay.831/">AIDay.831</a> （#AIDay @AIDay831）；</li>
+<li>GitHub <a href="/AIDay.831/">AIDay.831</a> 加星；</li>
+<li>推特轉發：<a href="/AIDay.831/">AIDay.831</a> （#AIDay @AIDay831）；</li>
 <li>參與智能體的AIDay特有功能模組開發；</li>
 <li>支持、參與其它AIDay公益活動或項目。</li>
 </ur>
