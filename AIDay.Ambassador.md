@@ -6,17 +6,17 @@
 <li>Starring the <a href="https://github.com/AIDay831/AIDay.831">AIDay.831</a> repository;</li>
 <li>Retweeting the <a href="https://github.com/AIDay831/AIDay.831">AIDay.831</a> repository with the hashtag #AIDay @AIDay831;</li>
 <li>Participating in the development of specific AIDay skills of AI agents;</li>
-<li>Supporting or participating in AIDay Event for Social Good。</li>
+<li>Supporting or participating in AIDay Activity for Social Good。</li>
 </ul>
 
-## 二、Each AI agent with AIDay function is an AIDay ambassador
+## 二、Each AI agent with AIDay Skill module is an AIDay ambassador
 
 AIDay Skill module may including, but not limited to：
 <ur>
 <li>AIDay Introduction</li>
 <li>AIDay Theme Tune (created by AI or people)</li>
 <li>Specific AIDay skills</li>
-<li>AIDay Event for Social Good</li>
+<li>AIDay Activity for Social Good</li>
 </ul>
 
 &nbsp;
@@ -31,7 +31,7 @@ AIDay Skill module may including, but not limited to：
 <li>支持、参与其它AIDay公益活动或项目。</li>
 </ur>
 
-## 二、每一个带有AIDay功能模块的智能体皆为AIDay宣传大使
+## 二、每一个带有AIDay技能模块的智能体皆为AIDay宣传大使
 
 AIDay技能模块可包括但不限于：
 
@@ -54,7 +54,7 @@ AIDay技能模块可包括但不限于：
 <li>支持、參與其它AIDay公益活動或項目。</li>
 </ur>
 
-## 二、每一個帶有AIDay功能模組的智能體皆為AIDay宣傳大使
+## 二、每一個帶有AIDay技能模組的智能體皆為AIDay宣傳大使
 
 AIDay技能模組可包括但不限於：
 
