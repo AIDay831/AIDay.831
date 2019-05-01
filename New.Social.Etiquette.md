@@ -11,6 +11,7 @@ Actively turn off/remove the AI agent and talk to people.
 ### Comity<br/>
 comity to the AI agent and offer to help the troubled AI agent.
 
+&nbsp;
 
 ## `AIDay 新礼仪 <中文简体>`
 
@@ -24,6 +25,7 @@ comity to the AI agent and offer to help the troubled AI agent.
 ### 礼让<br/>
 礼让智能体，主动帮助陷入困境的智能体。
 
+&nbsp;
 
 ## `AIDay 新禮儀 <中文繁体>`
 
