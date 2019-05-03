@@ -9,9 +9,9 @@
 <li>Supporting or participating in AIDay Activity for Social Good。</li>
 </ul>
 
-## 二、Each AI agent with AIDay Skill module is an AIDay ambassador
+## 二、Each AI agent with AIDay Skills module is an AIDay ambassador
 
-AIDay Skill module may including, but not limited to：
+AIDay Skills module may including, but not limited to：
 <ur>
 <li>AIDay Introduction</li>
 <li>AIDay Theme Tune (created by AI or people)</li>
