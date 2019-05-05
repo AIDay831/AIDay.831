@@ -52,6 +52,7 @@ AIDay技能模块可包括但不限于：
 <ur>
 <li>GitHub <a href="https://github.com/AIDay831/AIDay.831">AIDay.831</a> 加星；</li>
 <li>推特轉發：<a href="https://github.com/AIDay831/AIDay.831">AIDay.831</a> （#AIDay @AIDay831）；</li>
+<li>參與<a href="https://github.com/AIDay831/AIDay.Music">AIDay主題音樂創作</a>；</li>
 <li>參與智能體特有的AIDay技能模組開發；</li>
 <li>支持、參與AIDay公益活動或其它項目。</li>
 </ur>
