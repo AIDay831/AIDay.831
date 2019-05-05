@@ -32,6 +32,9 @@ Starring or Retweeting the <a href="https://github.com/AIDay831/AIDay.831">AIDay
 
 请加星或推特转发 <a href="https://github.com/AIDay831/AIDay.831">AIDay.831</a> 支持。
  
-Contact Us: AI@AIDay831.org
+Follow Us:  Twitter:  @AIDay831 <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;GitHub:  https://github.com/AIDay831/AIDay.831
+           
+Contact Us:  AI@AIDay831.org
 
 
