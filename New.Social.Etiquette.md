@@ -16,8 +16,7 @@ comity to the AI agent and offer to help the troubled AI agent.
 ## `AIDay 新礼仪 <中文简体>`
 
 ### 礼貌<br/>
-
-友好地与智能体互动。
+与智能体彼此友好地互动。
 
 ### 礼节<br/>
 主动关闭/摘下智能体，与他人交谈。
@@ -30,8 +29,7 @@ comity to the AI agent and offer to help the troubled AI agent.
 ## `AIDay 新禮儀 <中文繁体>`
 
 ### 禮貌<br/>
-
-友好地與智能體互動。
+與智能體彼此友好地互動。
 
 ### 禮節<br/>
 主動關閉/摘下智能體，與他人交談。
