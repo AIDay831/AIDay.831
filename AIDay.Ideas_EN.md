@@ -6,7 +6,7 @@
 
 > The Summer Research Project on Artificial Intelligence was held at Dartmouth in August 1956. The Dartmouth Conference became a milestone in the history of Artificial Intelligence, with the term Artificial Intelligence officially presented at academic conferences, and 1956 became the first year of Artificial Intelligence.
 
-> AI will bring human civilization to an unprecedented new height, and human society will therefore face unprecedented new challenges. To Honor the past, Show the present, Explore the future, Combining a wide range of social forces and Collective intelligence to achieve a brilliant era of intelligence in the history of human civilization, We initiated the AIDay (Artificial Intelligence Day).
+> AI will bring human civilization to an unprecedented new height, and human society will therefore face unprecedented new challenges. To Honor the past, Show the present, Explore the future, Combining a wide range of social forces and Collective intelligence to achieve a brilliant era of intelligence in the history of human civilization, We initiated the AIDay (Artificial Intelligence Day)，the day of science and humanities.
 
 ### What’s AIDay?
 > A Shared Day of Human and AI Species.
@@ -54,6 +54,6 @@ and security of AI practices
 
 ### Shared Day, Shared Future
 
-> AIDay is not only the festival of global  AI practitioners, but also a shared day of “all of us” and “AI species”; not only to promote AI technology, products and services, but also explore the relationship between people and “AI species”, to achieve not only give full play to the maximum advantages of AI technology, but also adhere to the core values of humanity; and Co-build a balanced and trustworthy AI-powered world,to make AI benefit from everyone and more accessible to everyone. 
+> AS the day of science and humanities，AIDay is not only the festival of global  AI practitioners, but also a shared day of “all of us” and “AI species”; not only to promote AI technology, products and services, but also explore the relationship between people and “AI species”, to achieve not only give full play to the maximum advantages of AI technology, but also adhere to the core values of humanity; and Co-build a balanced and trustworthy AI-powered world,to make AI benefit from everyone and more accessible to everyone. 
 
 > We believe that AIDay has the vitality of transcending the borders, times, and species, and will become a new value, new culture, and new tradition advocated by people in the intelligent age.
