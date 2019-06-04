@@ -54,6 +54,6 @@ and security of AI practices
 
 ### Shared Day, Shared Future
 
-> AS the day of science and humanities，AIDay is not only the festival of global  AI practitioners, but also a shared day of “all of us” and “AI species”; not only to promote AI technology, products and services, but also explore the relationship between people and “AI species”, to achieve not only give full play to the maximum advantages of AI technology, but also adhere to the core values of humanity; and Co-build a balanced and trustworthy AI-powered world,to make AI benefit from everyone and more accessible to everyone. 
+> As the day of science and humanities，AIDay is not only the festival of global  AI practitioners, but also a shared day of “all of us” and “AI species”; not only to promote AI technology, products and services, but also explore the relationship between people and “AI species”, to achieve not only give full play to the maximum advantages of AI technology, but also adhere to the core values of humanity; and Co-build a balanced and trustworthy AI-powered world,to make AI benefit from everyone and more accessible to everyone. 
 
 > We believe that AIDay has the vitality of transcending the borders, times, and species, and will become a new value, new culture, and new tradition advocated by people in the intelligent age.
