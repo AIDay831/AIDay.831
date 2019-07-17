@@ -7,19 +7,33 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 
 ### AIDay Ideas
 <ul>
-<li><a href="/AIDay.Ideas_EN.md">AIDay Ideas</a>  / （Français） / （español）</li>
-<li><a href="/AIDay.Ideas_CHS.md">AIDay 理念（中文简体版）</a> / <a href="/AIDay.Ideas_CHT.md">（中文繁體版）</a></li>
+<li><p><a href="/AIDay.Ideas_EN.md">AIDay Ideas</a>  / （Français） / （español）</p></li>
+<li><p><a href="/AIDay.Ideas_CHS.md">AIDay 理念（中文简体版）</a> / <a href="/AIDay.Ideas_CHT.md">（中文繁體版）</a></p></li>
 </ul>
 
 ### AIDay Events
 
 <ul>
-<li><a href="/New.Social.Etiquette.md">New Social Etiquette For AIDay / AIDay新礼仪</a></li>
-<li><a href="https://github.com/AIDay831/AIDay.Music">AIDay Theme Music / AIDay主题音乐</a></li>
-<li><a href="/AIDay.Ambassador.md">AIDay Ambassador / AIDay大使</a></li>
-<li><a href="/AIDay.Activity.md">AIDay Activity for Social Good / AIDay公益活动</a></li>
-<li><a href="https://github.com/AIDay831/AIDay.Skills">AIDay Skill Module / AIDay技能模块</a></li>
-<li>AI Practice for Social Good / AI实践公益项目</li>
+<li><p><a href="/New.Social.Etiquette.md">New Social Etiquette For AIDay / AIDay新礼仪</a></p></li>
+ 
+<li><p><a href="https://github.com/AIDay831/AIDay.Music">AIDay Theme Music / AIDay主题音乐</a></p></li>
+
+<li><p><a href="/AIDay.Ambassador.md">AIDay Ambassador / AIDay大使</a></p></li>
+
+<li><p><a href="/AIDay.Activity.md">AIDay Activity for Social Good / AIDay公益活动</a></p></li>
+
+<li><p><a href="https://github.com/AIDay831/AIDay.Skills">AIDay Skill Module / AIDay技能模块</a></p></li>
+
+<li><p>AI Practice for Social Good / AI实践公益项目</p></li>
+</ul>
+
+### AI Community / AI社区
+<ul>
+<li><p><a href="/AI.Courses.md">AI Courses / AI课程</a></p></li>
+ 
+<li><p><a href="/AI.Institutes.md">AI Education and Research Institutes / AI教育和研究机构</a></p></li>
+ 
+<li><p><a href="/AI.Startups.md">AI Startups / AI创业公司</a></p></li>
 </ul>
 
 ## Shared Day, Shared Future / 共同的节日  共同的未来
