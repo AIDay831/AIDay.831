@@ -2,7 +2,7 @@
 
 <ul>
 <li><p>
-Neural Networks Courses by Geoffrey Hinton / Geoffrey Hinton 2012年神经网络Mooc课程，免费开放在多伦多大学官网<br>
+Neural Networks Courses by Geoffrey Hinton / “神经网络之父” Geoffrey Hinton 2012年神经网络Mooc课程<br>
 https://www.cs.toronto.edu/~hinton/coursera_lectures.html
 </p></li>
 
@@ -12,9 +12,17 @@ https://www.fast.ai/
 </p></li>
 </ul>
 
+&nbsp;
+
 ## Sharing courses on the Github / Github 分享课程
 
 <ul>
+
+<li><p>
+公益机构 Delta Analytics 的数据清理、机器学习基础课程<br>
+https://github.com/DeltaAnalytics/machine_learning_for_good
+</p></li>
+
 <li><p>
 清华大学计算机系课程攻略<br>
 https://github.com/PKUanonym/REKCARC-TSC-UHT
@@ -41,5 +49,7 @@ https://github.com/lib-pku/libpku
 </p></li>
 
 </ul>
+
+&nbsp;
 
 ( Updating.../ 持续更新中... )
