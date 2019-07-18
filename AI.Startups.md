@@ -217,7 +217,7 @@ http://rcrai.com
 </li></p>
 
 <li><p>
-Plus AI:full-stack self-driving technology，autonomous trucks<br>
+Plus AI：full-stack self-driving technology，autonomous trucks<br>
 https://plus.ai/
 </li></p>
 
@@ -227,8 +227,33 @@ https://deepart.io/
 </li></p>
 
 <li><p>
-ecrett music:Royalty free music created by AI<br>
+ecrett music：Royalty free music created by AI<br>
 https://ecrettmusic.com/
+</li></p>
+
+<li><p>
+织点智能：AI+零售<br>
+https://www.pointsmart.cn/
+</li></p>
+
+<li><p>
+艺赛旗：AI+RPA（机器人流程自动化）<br>
+https://www.i-search.com.cn/
+</li></p>
+
+<li><p>
+MYNTAI / 小觅智能：机器视觉+机器人<br>
+http://www.myntai.com/
+</li></p>
+
+<li><p>
+视+AR：AR开放平台<br>
+http://www.sightp.com/
+</li></p>
+
+<li><p>
+阅面科技：基于AI视觉普适计算的智能环境感知<br>
+https://www.readsense.cn/
 </li></p>
 
 <li><p>
