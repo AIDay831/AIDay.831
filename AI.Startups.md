@@ -417,7 +417,7 @@ https://www.orcam.com/
 </li></p>
 
 <li><p>
-Gatebox：全息虚拟机器人
+Gatebox：全息虚拟机器人<br>
 https://gatebox.ai/
 </li></p>
 
