@@ -217,21 +217,6 @@ http://rcrai.com
 </li></p>
 
 <li><p>
-Plus AI：full-stack self-driving technology，autonomous trucks<br>
-https://plus.ai/
-</li></p>
-
-<li><p>
-DeepArt：Neural Art，Repaint your picture in the style of your favorite artist<br>
-https://deepart.io/
-</li></p>
-
-<li><p>
-ecrett music：Royalty free music created by AI<br>
-https://ecrettmusic.com/
-</li></p>
-
-<li><p>
 织点智能：AI+零售<br>
 https://www.pointsmart.cn/
 </li></p>
@@ -257,6 +242,161 @@ https://www.readsense.cn/
 </li></p>
 
 <li><p>
+Plus AI：full-stack self-driving technology，autonomous trucks<br>
+https://plus.ai/
+</li></p>
+
+<li><p>
+DeepArt：Neural Art，Repaint your picture in the style of your favorite artist<br>
+https://deepart.io/
+</li></p>
+
+<li><p>
+ecrett music：Royalty free music created by AI<br>
+https://ecrettmusic.com/
+</li></p>
+
+<li><p>
+YSEOP：Natural Language Generation（NLG）technology<br>
+https://yseop.com/
+</li></p>
+
+<li><p>
+ARRIA：Natural Language Generation（NLG）<br>
+https://www.arria.com/
+</li></p>
+
+<li><p>
+AUTOMATED INSIGHTS：Natural Language Generation（NLG）<br>
+https://automatedinsights.com/
+</li></p>
+
+<li><p>
+Agolo：summarization platform ，create summaries from your information in real-time <br>
+https://www.agolo.com/
+</li></p>
+
+<li><p>
+Alpaca羊驼：A collaboration platform with Human & AI for the global capital markets <br>
+http://www.alpaca.ai/
+</li></p>
+
+<li><p>
+ORBIT Financial Technology：text analytics and AI computing for Financial Industry <br>
+http://www.orbitsentiment.com/
+</li></p>
+
+<li><p>
+ZestFinance：Transparent Credit Available to Everyone with ML <br>
+https://www.zestfinance.com/
+</li></p>
+
+<li><p>
+Predata：Machine Learning & Predictive Analytics <br>
+https://www.predata.com/
+</li></p>
+
+<li><p>
+Vicarious ：AI for the robot age，developing artificial general intelligence for robots. <br>
+https://www.vicarious.com/
+</li></p>
+
+<li><p>
+Semantic Machines：Conversational AI interfaces，Semantic Machines （已于2018年被微软收购）<br>
+http://www.semanticmachines.com/
+</li></p>
+
+<li><p>
+Clarifai：The personalized computer vision solution <br>
+https://www.clarifai.com/
+</li></p>
+
+<li><p>
+Enlitic：Bridging human and AI to advance medical diagnostics <br>
+https://www.enlitic.com/
+</li></p>
+
+<li><p>
+iSpeech：Speech Platform，Text to Speech,Speech Recognition <br>
+https://www.ispeech.org/
+</li></p>
+
+<li><p>
+Diffbot：Automatically extract web pages as structured data.<br>
+https://www.diffbot.com/
+</li></p>
+
+<li><p>
+Cortica：Autonomous AI（the next generation of AI ）,Unsupervised learning machine vision <br>
+https://www.cortica.com/
+</li></p>
+
+<li><p>
+Looker：Business intelligence & big data analytics <br>
+https://looker.com/
+</li></p>
+
+<li><p>
+Rubikloud：Changing Retail With Intelligent Decision Automation <br>
+https://rubikloud.com/
+</li></p>
+
+<li><p>
+Persado：Words Matter，Natural Language Generated Advertising <br>
+https://www.persado.com/
+</li></p>
+
+<li><p>
+ViSenze：AI Solutions powering great shopping experiences <br>
+https://www.visenze.com/
+</li></p>
+
+<li><p>
+Nugit：Data Extraction and Analysis Platform <br>
+https://www.nugit.co/
+</li></p>
+
+<li><p>
+Flatiron：Intelligence Health <br>
+https://flatiron.com/
+</li></p>
+
+<li><p>
+Babylon：AI interactive symptom checker <br>
+https://www.babylonhealth.com/
+</li></p>
+
+<li><p>
+DeepMap：HD Mapping and Localization for Safe Autonomy <br>
+https://www.deepmap.ai/
+</li></p>
+
+<li><p>
+Veritone：operating system for AI ，Democratizing AI <br>
+https://www.veritone.com/
+</li></p>
+
+<li><p>
+Wonder Workshop：Teach kids how to program <br>
+https://www.makewonder.com/
+</li></p>
+
+<li><p>
+VisionLabs：Computer vision and machine learning <br>
+https://visionlabs.ai/
+</li></p>
+
+<li><p>
+Trifacta：Data Wrangling Tools <br>
+https://www.trifacta.com/
+</li></p>
+
+<li><p>
+Solvvy：Artificial Intelligence Customer Service and Support Platform <br>
+https://solvvy.com/
+</li></p>
+
+<li><p>
 ......
 </li></p>
 
@@ -274,6 +414,16 @@ https://www.bostondynamics.com/
 <li><p>
 OrCam ：可穿戴视觉辅助设备<br>
 https://www.orcam.com/
+</li></p>
+
+<li><p>
+Gatebox：全息虚拟机器人
+https://gatebox.ai/
+</li></p>
+
+<li><p>
+Gowild狗尾草：人工智能虚拟生命引擎、全息智能音箱<br>
+https://www.gowild.cn/
 </li></p>
 
 <li><p>
@@ -339,11 +489,6 @@ http://www.lejurobot.com/
 <li><p>
 蓝胖子机器人：智能无人仓解决方案<br>
 https://www.dorabot.com/
-</li></p>
-
-<li><p>
-Gowild狗尾草：人工智能虚拟生命引擎、全息智能音箱<br>
-https://www.gowild.cn/
 </li></p>
 
 <li><p>
