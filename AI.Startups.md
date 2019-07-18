@@ -5,8 +5,14 @@
 ### AI Software and Solution / AI 软件和解决方案
 
 <ul>
+  
 <li><p>
-Landing AI：AI-powered Visual <br> 
+Open AI：Artificial general intelligence（AGI），Sam Altman（前孵化器Y Combinator 负责人）联合创始人兼CEO
+https://openai.com
+</li></p>
+  
+<li><p>
+Landing AI：AI-powered Visual，吴恩达（Andrew Ng）博士及其团队 <br> 
 https://landing.ai/
 </li></p>
 
@@ -26,12 +32,12 @@ https://www.elementai.com/
 </li></p>
 
 <li><p>
-旷视科技：人工智能科技、计算机视觉算法应用于物联网<br>
+旷视科技：人工智能科技、计算机视觉算法应用于物联网，国内首家发布企业《人工智能应用准则》<br>
 https://www.megvii.com/
 </li></p>
 
 <li><p>
-商汤科技：计算机视觉、深度学习技术<br>
+商汤科技：计算机视觉、深度学习技术，汤晓鸥教授及其团队<br>
 http://www.sensetime.com/
 </li></p>
 
@@ -96,12 +102,12 @@ http://videojj.com/
 </li></p>
 
 <li><p>
-Pony AI 小马智行：无人驾驶技术<br>
+Pony AI 小马智行：无人驾驶技术， 彭军、楼天城及其团队<br>
 https://www.pony.ai/
 </li></p>
 
 <li><p>
-第四范式<br>
+第四范式：戴文渊、杨强教授团队<br>
 https://www.4paradigm.com/
 </li></p>
 
@@ -171,7 +177,62 @@ http://mor.ai/
 </li></p>
 
 <li><p>
+DeepCare 羽医甘蓝：AI口腔影像<br>
+http://www.deepcare.com/
+</li></p>
 
+<li><p>
+文因互联：知识图谱技术、自然语言处理技术、金融知识建模<br>
+http://memect.cn/ 
+</li></p>
+
+<li><p>
+玻森：中文语义开放平台<br>
+http://bosonnlp.com/
+</li></p>
+
+<li><p>
+桃树科技：面向全球金融市场的数据投资大脑<br>
+http://www.taodatarobot.com/
+</li></p>
+
+<li><p>
+Clare.AI：Engage Your Customers with AI Digital Assistants <br>
+https://www.clare.ai/
+</li></p>
+
+<li><p>
+宜远智能：医疗影像、AI测肤质平台<br>
+http://yiyuan.ai/
+</li></p>
+
+<li><p>
+语知科技：自然语言理解技术平台<br>
+http://www.yuzhinlp.com/
+</li></p>
+
+<li><p>
+Recurrent.ai: 语音识别、自然语言理解、数据挖掘，商业智能，智能呼叫系统<br>
+http://rcrai.com
+</li></p>
+
+<li><p>
+Plus AI:full-stack self-driving technology，autonomous trucks<br>
+https://plus.ai/
+</li></p>
+
+<li><p>
+DeepArt：Neural Art，Repaint your picture in the style of your favorite artist<br>
+https://deepart.io/
+</li></p>
+
+<li><p>
+ecrett music:Royalty free music created by AI<br>
+https://ecrettmusic.com/
+</li></p>
+
+<li><p>
+......
 </li></p>
 
 </ul>
@@ -196,7 +257,7 @@ https://www.tusimple.com/
 </li></p>
 
 <li><p>
-出门问问：可穿戴设备、智能音箱<br>
+出门问问：语音搜索应用、可穿戴设备、智能音箱，李志飞博士及其团队<br>
 https://www.mobvoi.com/
 </li></p>
 
@@ -206,7 +267,7 @@ https://www.segwayrobotics.com/
 </li></p>
 
 <li><p>
-Rokid(若琪)：语音交互技术，智能音箱、AR眼镜<br>
+Rokid(若琪)：语音交互技术，智能音箱、AR眼镜，祝铭明博士及其团队<br>
 http://www.rokid.com/
 </li></p>
 
@@ -266,9 +327,70 @@ https://rivai-ic.com.cn/
 </li></p>
 
 <li><p>
-
+......
 </li></p>
 
 </ul>
+
+
+### AI Media  / AI 媒体
+
+<ul>
+<li><p>
+量子位：追踪人工智能新趋势<br>
+https://www.qbitai.com/
+</li></p>
+
+<li><p>
+机器之心：全球人工智能信息服务<br>
+https://www.jiqizhixin.com/
+</li></p>
+
+<li><p>
+DeepTech 深科技 /《麻省理工科技评论》中文网<br>
+http://www.mittrchina.com/
+</li></p>
+
+<li><p>
+雷锋网：读懂智能&未来<br>
+https://www.leiphone.com/
+</li></p>
+
+<li><p>
+新智元：智能+中国主平台<br>
+http://aiera.com.cn/
+</li></p>
+
+<li><p>
+智能链：智能科技产业推动者、链接智能大时代<br>
+https://www.zhinengl.com/
+</li></p>
+
+<li><p>
+极客公园-推动商业新变量<br>
+http://www.geekpark.net/
+</li></p>
+
+<li><p>
+极客网：科技使能新商业<br>
+http://www.fromgeek.com/
+</li></p>
+
+<li><p>
+镁客网 - 硬科技产业媒体<br>
+https://www.im2maker.com/
+</li></p>
+
+<li><p>
+36kr <br>
+https://36kr.com/
+</li></p>
+
+<li><p>
+......
+</li></p>
+
+</ul>
+
 
 （Updating... / 持续更新...）
