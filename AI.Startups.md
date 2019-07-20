@@ -497,10 +497,150 @@ https://rivai-ic.com.cn/
 </li></p>
 
 <li><p>
+悉见科技：混合现实的AI公司<br>
+http://xiijan.com/
+</li></p>
+
+<li><p>
 ......
 </li></p>
 
 </ul>
+
+### Industrial AI / 工业智能
+
+<ul>
+<li><p>
+UPTAKE：INDUSTRIAL AI <br>
+https://www.uptake.com/
+</li></p>
+
+<li><p>
+Industrial AI and Iot for social Good <br>
+https://www.uptake.org/ 
+</li></p>
+
+<li><p>
+Provider of AI, IoT, and Big Data Applications <br>
+https://c3.ai/
+</li></p>
+
+<li><p>
+Agile Robots / 思灵机器人，创始人陈兆芃和Peter Meusel来自德国宇航中心机器人研究所 <br>
+http://www.agile-robots.com/
+</li></p>
+
+<li><p>
+越疆科技：轻量型全感知机器人<br>
+https://www.dobot.cc/
+</li></p>
+
+<li><p>
+梅卡曼德机器人：将智能赋予工业机器人 <br>
+http://www.mech-mind.net/
+</li></p>
+
+<li><p>
+创新奇智：AI Empowering Business <br>
+https://www.ainnovation.com/
+</li></p>
+
+<li><p>
+寄云科技：工业互联网 <br>
+http://www.neucloud.cn
+</li></p>
+
+<li><p>
+智昌机器人：工业机器人、智能工厂 <br>
+http://www.emergen.cn/
+</li></p>
+
+<li><p>
+库柏特：工业机器人智能操作系统 <br>
+http://cobotsys.com/
+</li></p>
+
+<li><p>
+易视智瞳科技：工业视觉智能体系及技术 <br>
+http://www.esightech.com.cn/
+</li></p>
+
+<li><p>
+慧灵科技：协作机械臂<br>
+https://www.hitbot.cc/
+</li></p>
+
+<li><p>
+艾利特机器人：智能工人缔造者 <br>
+http://www.elibot.cn/
+</li></p>
+
+<li><p>
+大象机器人：All-in-one协作式机器人<br>
+http://www.elephantrobotics.com/
+</li></p>
+
+<li><p>
+熵智科技：赋能机器人从自动化到智能化 <br>
+http://www.seizet.com/
+</li></p>
+
+<li><p>
+JK-Tech：协作机器人 <br>
+http://www.jk-tech.com.cn/
+</li></p>
+
+<li><p>
+埃睿迪：工业大数据技术 <br>
+http://www.ireadyit.com/
+</li></p>
+
+<li><p>
+天数智芯：高性能大数据机器学习平台 <br>
+http://www.iluvatar.com.cn/
+</li></p>
+
+<li><p>
+杉数科技：工业大数据 <br>
+https://www.shanshu.ai/
+</li></p>
+
+<li><p>
+辰视智能：让机器人拥有智能“双眼”智慧“大脑” <br>
+http://www.cosmosvisiontech.com/
+</li></p>
+
+<li><p>
+开源工业互联网平台 <br>
+https://openii.cn/
+</li></p>
+
+<li><p>
+远舢智能：工业PaaS平台 <br>
+www.yuanshan-ai.com
+</li></p>
+
+<li><p>
+安脉盛智能：工业大数据与工业人工智能 <br>
+https://www.aimsphm.com/
+</li></p>
+
+<li><p>
+雪浪数制：智能工业互联网平台 <br>
+http://www.xuelangyun.com/
+</li></p>
+
+<li><p>
+蔚蓝数字工业：数字化工厂SaaS应用 <br>
+http://www.blueindustry.cc/
+</li></p>
+
+<li><p>
+......
+</li></p>
+
+</ul>
+  
 
 
 ### AI Media  / AI 媒体
