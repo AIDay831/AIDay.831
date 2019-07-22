@@ -7,6 +7,14 @@ https://www.cs.toronto.edu/~hinton/coursera_lectures.html
 </p></li>
 
 <li><p>
+机器学习国际最权威学者吴恩达博士（Dr.Andrew Ng）机器学习课程<br>
+https://study.163.com/course/introduction.htm?courseId=1004570029
+
+最新深度学习课程<br>
+https://mooc.study.163.com/smartSpec/detail/1001319001.htm
+</p></li>
+
+<li><p>
 Fast.ai Course (all online courses are free and have no ads) /  Fast.ai 所有在线课程免费且无广告<br>
 https://www.fast.ai/
 </p></li>
