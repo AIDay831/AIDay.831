@@ -40,7 +40,7 @@ https://mila.quebec/
 </p></li>
 
 <li><p>
-Leverhulme Centre for the Future of Intelligence / 剑桥大学未来智能研究中心
+Leverhulme Centre for the Future of Intelligence / 剑桥大学未来智能研究中心 <br>
 http://www.lcfi.ac.uk/
 </p></li>
 
