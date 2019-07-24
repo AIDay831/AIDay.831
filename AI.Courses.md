@@ -25,6 +25,11 @@ https://www.fast.ai/
 ## Sharing courses on the Github / Github 分享课程
 
 <ul>
+  
+<li><p>
+Deep Learning Papers Reading Roadmap / 深度学习论文 阅读路线图
+https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+</p></li>
 
 <li><p>
 公益机构 Delta Analytics 的数据清理、机器学习基础课程<br>
