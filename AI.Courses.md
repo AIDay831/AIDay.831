@@ -27,7 +27,7 @@ https://www.fast.ai/
 <ul>
   
 <li><p>
-Deep Learning Papers Reading Roadmap / 深度学习论文 阅读路线图
+Deep Learning Papers Reading Roadmap / 深度学习论文 阅读路线图 <br>
 https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 </p></li>
 
