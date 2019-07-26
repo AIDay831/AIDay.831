@@ -32,6 +32,8 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 <li><p><a href="/AI.Courses.md">AI Courses / AI课程</a></p></li>
  
 <li><p><a href="/AI.Institutes.md">AI Education and Research Institutes / AI教育和研究机构</a></p></li>
+
+<li><p><a href="/AI.Open.Source.Project.md">AI Open Source Project / AI 开源项目</a></p></li>
  
 <li><p><a href="/AI.Startups.md">AI Startups / AI创业公司</a></p></li>
 </ul>
@@ -61,8 +63,11 @@ Creating, Starring or Retweeting the <a href="https://github.com/AIDay831/AIDay.
 ### Follow us 
 
 Twitter:  @AIDay831 <br/>
+
 GitHub:  https://github.com/AIDay831/AIDay.831 <br/>
+
 &emsp;&emsp;&emsp;&emsp;https://github.com/AIDay831/AIDay.Skills <br/>
+
 &emsp;&emsp;&emsp;&emsp;&emsp;https://github.com/AIDay831/AIDay.Music <br/>
 
 Contact us:  AI@AIDay831.org
