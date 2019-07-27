@@ -3,6 +3,12 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 
 人工智能节 · 8月31日 :  人与人工智能物种的共同节日.
 
+<ul>
+<li><p>Be Responsible to People、Balance for Society、Benefits for Everyone </p></li>
+
+<li><p>AI 对人负责、对社会有益、惠及每个人</li></p>
+</ul>
+
 ## Contents
 
 ### AIDay Ideas
@@ -36,17 +42,11 @@ Artificial Intelligence Day · August 31st :  A Shared Day of Human and AI Speci
 <li><p><a href="/AI.Open.Source.Project.md">AI Open Source Project / AI 开源项目</a></p></li>
  
 <li><p><a href="/AI.Startups.md">AI Startups / AI创业公司</a></p></li>
+
+<li><p><a href="/AI.Species.md">AI Species / AI物种</a></p></li>
 </ul>
 
 ## Shared Day  Shared Future / 共同的节日  共同的未来
-
-<ul>
- 
-<li><p>Be Responsible to People、Balance for Society、Benefits for Everyone </p></li>
-
-<li><p>AI 对人负责、对社会有益、惠及每个人</li></p>
-
-</ul>
 
 As the day of science and humanities, AIDay is not only the festival of global AI scientists and technicians, but also a shared day of “all of us” and “AI species”. 
 Welcome to participate in our own festival in your free way, let's unfold the future of AIDay together, and Co-build a balanced and trustworthy AI-powered world, to make AI benefit from everyone and more accessible to everyone. 
