@@ -1,5 +1,27 @@
 # Top Popular AI Species / 最受欢迎的AI物种
 
+## AI Gamers / AI 游戏玩家
+
+<ul>
+<li><p>
+AlphaGo、AlphaZero： GO、Chess / 围棋、国际象棋<br>
+https://github.com/Zeta36/chess-alpha-zero
+  
+https://github.com/B-C-WANG/AlphaGo-Zero-Paper
+</li></p>
+
+<li><p>
+OpenAI Five ：Dota2 <br>
+https://github.com/llSourcell/OpenAI_Five_vs_Dota2_Explained
+</li></p>
+
+<li><p>
+Pluribus：poker AI <br>
+https://github.com/VitamintK/pluribus-hand-parser
+</li></p>
+</ul>
+
+
 ## AI Voice Assistant / AI语音助手
 
 <ul>
@@ -43,7 +65,7 @@ www.bing.com/Translator
 </li></p>
 </ul>
 
-## AI painter / AI画师
+## AI Painter / AI画师
 
 <ul>
 <li><p>
@@ -60,9 +82,16 @@ https://aiportraits.com/
 StyleGAN / 生成式对抗网络图像 <br>
 https://thispersondoesnotexist.com/
 </li></p>
+
+<li><p>
+专业的AI漫画线稿自动上色工具 <br> 
+https://github.com/style2paints/style2paints.github.io
+
+https://style2paints.github.io/
+</li></p>
 </ul>
 
-## AI singer / AI歌手
+## AI Singer / AI歌手
 
 <ul>
 <li><p>
@@ -78,7 +107,7 @@ http://1stplace.co.jp/software/cevio/ia_english_c/
 </li></p>
 </ul>
 
-## Driverless car / 无人驾驶
+## Driverless Car / 无人驾驶
 
 <ul>
 <li><p>
@@ -121,7 +150,7 @@ https://asimo.honda.com/
 </li></p>
 </ul>
 
-## Service robot / 服务机器人
+## Service Robot / 服务机器人
 
 <ul>
 <li><p>
@@ -143,9 +172,14 @@ https://www.irobot.com/
 Delivery Drones / 快递机器人<br>
 https://www.starship.xyz/
 </li></p>
+
+<li><p>
+傅利叶智能：外骨骼机器人 <br>
+http://www.fftai.com/
+</li></p>
 </ul>
 
-## Holographic virtual robot / 全息虚拟机器人
+## Holographic Virtual Robot / 全息虚拟机器人
 
 <ul>
 <li><p>
@@ -159,7 +193,7 @@ https://www.gowild.cn/
 </li></p>
 </ul>
 
-## Unmanned aerial vehicle (UAV) / 无人机
+## Unmanned Aerial Vehicle (UAV) / 无人机
 
 <ul>
 <li><p>
@@ -202,7 +236,7 @@ https://www.oculus.com
 </li></p>
 </ul>
 
-## AI writing /AI 写作 
+## AI Writing /AI 写作 
 
 <ul>
 <li><p>
