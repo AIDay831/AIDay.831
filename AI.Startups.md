@@ -397,6 +397,16 @@ https://solvvy.com/
 </li></p>
 
 <li><p>
+Make driving chill. （George Hotz / 乔治·霍兹）<br>
+https://comma.ai/
+</li></p>
+
+<li><p>
+Open Source Leader in AI and ML <br>
+https://www.h2o.ai/
+</li></p>
+
+<li><p>
 ......
 </li></p>
 
@@ -409,6 +419,11 @@ https://solvvy.com/
 <li><p>
 Boston Dynamics：机器人<br>
 https://www.bostondynamics.com/
+</li></p>
+
+<li><p>
+Delivery Drones / 快递机器人 <br>
+https://www.starship.xyz/
 </li></p>
 
 <li><p>
@@ -459,6 +474,11 @@ http://www.westwell-lab.com/
 <li><p>
 傅利叶智能：外骨骼机器人<br>
 http://www.fftai.com/
+</li></p>
+
+<li><p>
+迈步机器人：外骨骼机器人 <br>
+http://milebot.com.cn/
 </li></p>
 
 <li><p>
