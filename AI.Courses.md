@@ -32,6 +32,18 @@ https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 </p></li>
 
 <li><p>
+An educational resource to help anyone learn deep reinforcement learning / 强化学习的教育资源 <br>
+https://github.com/openai/spinningup
+
+https://spinningup.openai.com/en/latest/
+</li></p>
+
+<li><p>
+Transferlearning-Tutorial / 《迁移学习简明手册》 <br>
+https://github.com/jindongwang/transferlearning-tutorial
+</li></p>
+
+<li><p>
 公益机构 Delta Analytics 的数据清理、机器学习基础课程<br>
 https://github.com/DeltaAnalytics/machine_learning_for_good
 </p></li>
