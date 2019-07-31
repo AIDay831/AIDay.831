@@ -20,7 +20,7 @@ AIDay Skills module may including, but not limited to：
 <li>AIDay Activity for Social Good</li>
 </ul>
 
-Contact Us: AI@AIDay831.org
+<p>Contact Us: AI@AIDay831.org </p>
 
 &nbsp;
 
@@ -46,7 +46,7 @@ AIDay技能模块可包括但不限于：
 <li>AIDay公益活动或项目</li>
 </ur>
 
-请联系我们: AI@AIDay831.org
+<p>请联系我们: AI@AIDay831.org</p>
 
 &nbsp;
 
@@ -72,4 +72,4 @@ AIDay技能模組可包括但不限於：
 <li>AIDay公益活動或項目</li>
 </ur>
 
-聯繫我們: AI@AIDay831.org
+<p>聯繫我們: AI@AIDay831.org</p>
