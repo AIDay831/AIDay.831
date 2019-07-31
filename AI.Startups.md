@@ -432,6 +432,11 @@ https://www.orcam.com/
 </li></p>
 
 <li><p>
+Human Sized Idol Robot / 真人大小的偶像机器人<br>
+http://www.speecys.com/
+</li></p>
+
+<li><p>
 Gatebox：全息虚拟机器人<br>
 https://gatebox.ai/
 </li></p>
