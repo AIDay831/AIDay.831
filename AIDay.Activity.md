@@ -1,10 +1,10 @@
 # AIDay Activity for Social Good
 
-## AIDay open day/week ( reward day/week )
+## AIDay Open Day/Week ( Reward Day/Week )
 
 On AIDay,or in the week of AIDay on August 31st, we call on：
 
-AI organizations and technicians organize AIDay open day/week, or reward day/week,and other science and reward activities, to make more people benefit from it.
+AI organizations and technicians organize AIDay Open DayWeek, or Reward Day/Week,and other science and reward activities, to make more people benefit from it.
 
 If anyone does this, please let us know that we will publish the list of activities and recommend it. 
 
