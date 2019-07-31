@@ -200,6 +200,16 @@ https://research.fb.com/
 </p></li>
 
 <li><p>
+IBM Research AI <br>
+https://www.research.ibm.com/artificial-intelligence/
+</p></li>
+
+<li><p>
+Nvidia / 英伟达 <br>
+https://www.nvidia.com/en-us/research/
+</p></li>
+
+<li><p>
 腾讯AI Lab <br>
 https://ai.tencent.com/
 </p></li>
