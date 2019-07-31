@@ -180,26 +180,40 @@ https://github.com/ageitgey/face_recogniTIon
 
 <li><p>
 Music and Art Generation with Machine Intelligence / 用机器智能生成的音乐和艺术
-
+  
 https://github.com/tensorflow/magenta
 </p></li>
 
 <li><p>
 A simulator for drones, cars and more / AirSim是用于无人机、汽车等的模拟器
-
+  
 https://github.com/Microsoft/AirSim
 </p></li>
 
 <p><li>
-Open Source Neural Machine Translation in Torch / 开源神经机器翻译  
+Open Source Neural Machine Translation in Torch / 开源神经机器翻译 
   
 https://github.com/OpenNMT/OpenNMT
 </p></li>
 
 <p><li>
 A platform for Applied Reinforcement Learning (Applied RL) / 应用强化学习平台
-
+  
 https://github.com/facebookresearch/Horizon
+</p></li>
+
+<p><li>
+Tracking Progress in Natural Language Processing / 跟踪自然语言处理的进展
+  
+https://github.com/sebastianruder/NLP-progress
+</p></li>
+
+<p><li>
+Antialiased CNNs / 抗锯齿的CNN 
+  
+https://github.com/adobe/antialiased-cnns#1-quickstart-load-an-antialiased-model 
+
+https://richzhang.github.io/antialiased-cnns/
 </p></li>
 
 <p><li>
