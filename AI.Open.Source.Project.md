@@ -47,6 +47,9 @@ https://github.com/microsoft/CNTK
 PaddlePaddle：PArallel Distributed Deep LEarning / 并行分布式深度学习
   
 https://github.com/PaddlePaddle/Paddle
+
+An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools) / 持续学习语义理解框架<br>
+https://github.com/PaddlePaddle/ERNIE
 </p></li>
 
 </ul>
